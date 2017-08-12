@@ -1,4 +1,4 @@
-# clase-project-py
+﻿# clase-project-py
 Práctica de Python en clase de ciencia de los datos aplicada
 En esta demostración haré lo siguiente
 
@@ -19,3 +19,8 @@ Haga click [aquí](www.google.com) para ir a Google
 
 
 bla bla bla
+
+## Esta es una nueva rama agregada desde el master
+
+# Hola esto es un título
+
